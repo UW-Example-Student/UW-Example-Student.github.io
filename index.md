@@ -13,7 +13,7 @@ I plan to become a technical writer or a data scientist.
 
 ## Hobbies
 
-When I am not studying, I like to play soccer, read science fiction, and play the piano. I also love making things with [Arduino](https://www.arduino.cc/). 
+When I am not studying, I like to play soccer, read science fiction, and play the piano.
 
 These are my favorite soccer teams:
 
