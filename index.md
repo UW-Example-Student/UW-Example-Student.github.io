@@ -4,6 +4,8 @@
 
 Hello! My name is Example Student. I study at the University of Washington. This page says a little about me.
 
+![Dubs](dubs.jpg)
+
 ## Academics
 
 I am majoring in English and Computer Science. I am currently enrolled in **ENGL396: Software Documentation**. When I graduate, 
