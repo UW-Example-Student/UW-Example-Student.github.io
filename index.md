@@ -11,17 +11,11 @@ Hello! My name is Example Student. I study at the University of Washington. This
 I am majoring in English and Computer Science. I am currently enrolled in **ENGL396: Software Documentation**. When I graduate, 
 I plan to become a technical writer or a data scientist.
 
-## Hobbies
+Here is a list of my favorite classes at UW:
 
-When I am not studying, I like to play soccer, read science fiction, and play the piano.
-
-These are my favorite soccer teams:
-
-- Seattle Sounders SC
-- Liverpool FC
-- FC Barcelona
-
-I also love making things with [Arduino](https://www.arduino.cc/).
+- [Databases and Data Modeling](https://myplan.uw.edu/course/#/courses/INFO330?states=N4Ig7gDgziBcLADrgJYDsAmB7MAJApigOYAWALsrAIwCsALAEwA0yY62YACllCmSljSUGANgC%2BIMUA)
+- [Data Structures and Parallelism](https://courses.cs.washington.edu/courses/cse332/)
+- [Introduction to Professional and Technical Writing](https://english.washington.edu/courses/2024/winter/engl/288/g)
 
 ## Programming Background
 
