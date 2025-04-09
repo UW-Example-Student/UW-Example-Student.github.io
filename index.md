@@ -1,10 +1,8 @@
 # About Me
-<!--
-**UW-Example-Student/UW-Example-Student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Hello! My name is Example Student. I study at the University of Washington. This page says a little about me.
 
-![Dubs](dubs.jpg)
+![Dubs](dubs.jpg "A picture of Dubs a.k.a. UW Example Student")
 
 ## Academics
 
